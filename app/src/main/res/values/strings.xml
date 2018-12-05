@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab_3</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="create">Create</string>
+</resources>
